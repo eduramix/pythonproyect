@@ -1,0 +1,11 @@
+Pong fue un juego de dos jugadores estrenado el 29 de noviembre de 1972, diseñado por Allan Alcorn. Está considerado como uno de los primeros videojuegos que se han desarrollado. Esta versión en Python se considera un homenaje al mismo.
+
+Objetivo: los dos jugadores deben evitar que la bola salga de la pantalla a través del lado que ellos controlan. Después de una cantidad dada de toques, la bola aumentará su velocidad.
+
+Instrucciones:
+
+El jugador 1 (ubicado a la izquierda) es controlado a través de las teclas W (para subir) y S (para bajar)
+
+El jugador 2 (ubicado a la derecha) es controlado a través de las flechas, con la flecha apuntando hacia arriba (para subir) y la flecha apuntando hacia abajo (para bajar) respectivamente.
+
+Autor: Eduardo Ramírez
