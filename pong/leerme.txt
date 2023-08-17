@@ -9,3 +9,18 @@ El jugador 1 (ubicado a la izquierda) es controlado a través de las teclas W (p
 El jugador 2 (ubicado a la derecha) es controlado a través de las flechas, con la flecha apuntando hacia arriba (para subir) y la flecha apuntando hacia abajo (para bajar) respectivamente.
 
 Autor: Eduardo Ramírez
+
+----------------------------------
+
+Pong was a two-players game, launched on November 29,1972. The game was designed by Allan Alcorn. It's one of the first developed videogames. This Python version is a tribute for this classic videogame.
+
+Objective: Both players have to owe the ball can go out of the screen besides their sides. After some ball touches, the ball speed will incresase.
+
+Instructions:
+
+Player 1 (left side): Ccontrolled with W (up) and S (down)
+Player 2 (right side): Controlled with up-arrow (up) and down-arrow (down)
+
+Author: Eduardo Ramirez
+
+Note: I'm learning English. Sorry if I made some mistakes haha.
